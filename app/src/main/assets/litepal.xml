@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="ChinaArea" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.example.xiewencai.littletree.db.County" />
+        <mapping class="com.example.xiewencai.littletree.db.City" />
+        <mapping class="com.example.xiewencai.littletree.db.Province" />
+        <mapping class="com.example.xiewencai.littletree.db.Note"/>
+
+    </list>
+</litepal>
